@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lab report guidelines and topics and supporting
+  files for the lab assignments.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
